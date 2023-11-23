@@ -1,11 +1,11 @@
 Olá meu nome é Nathali Tagliati,  Desenvolvedor de Sistema
 
 
- Curso Desenvolvimento de Sistema que tem duração de 1 ano e 6 meses e estou no oitavo mês, tenho conhecimento e já fiz diversos projetos utilizando as tecnologias HTML e CSS, linguagem de progamação Javascript, bibliotecas Leaflet e React, n Bot javascript, ambiente de execução node JS, framework Vue, banco de dados Mongo DB, mySQL, Excel e Photoshop. Procuro daqui um tempo estudar as linguagens de programação Java e Python. 
+ Curso Desenvolvimento de Sistema, tenho conhecimento e já fiz diversos projetos utilizando as tecnologias HTML e CSS, linguagem de progamação Javascript,java bibliotecas Leaflet e React, n Bot javascript,progamação orientada a objeto, ambiente de execução node JS, framework Vue, banco de dados Mongo DB, mySQL, Excel e Photoshop. Procuro daqui um tempo estudar as linguagens de programaçã Python. 
 
-* 🌍 Moro em Brasil, São Paulo.
-* ✉️ Você pode entrar em contato comigo em [n](mailto:n) [nathalitagliati04@gmail.com](mailto:nathalitagliati04@gmail.com)
-* 🧠 Estou aprendendo A linguagem de progamação javascript
+* 🌍 Moro no Brasil, São Paulo.
+* ✉️ Você pode entrar em contato comigo em [](mailto:) [nathalitagliati04@gmail.com](mailto:nathalitagliati04@gmail.com)
+* 🧠 Estou aprendendo A linguagem de progamação java
 * 🤝 Estou aberto a colaborar em Projetos de desenvolvimento de sistema e web
 
 ### Habilidades
