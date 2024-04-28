@@ -12,7 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
+ <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html-original.svg">
  <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" >          
  <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
  <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
