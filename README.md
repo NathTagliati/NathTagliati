@@ -5,9 +5,10 @@
   
 -😄 Sou desenvolvedora de sistema, atualmente estudando as linuagens de progamação Dart e Php !
 
-<div>
-  <a href="https://github.com/NathTagliati>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Username=NathTagliati&layout=compact&langs_count=168&theme""/
+  <div>
+<img align = "center" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeelsantos&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
 </div>
 
 <div style="display: inline_block"><br>
