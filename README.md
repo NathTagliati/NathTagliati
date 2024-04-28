@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" aling = "center" alt = "word" height = "40" width = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" aling = "center" alt = "photo" height = "40" width = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" aling = "center" alt = "canva" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bancodedadosAzureSQL/bancodedadosAzureSQL-original.svg" aling = "center" alt = "canva" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bancodedadosazuresql/bancodedadosazuresql-original.svg" aling = "center" alt = "canva" height = "40" width = "40" />
   
   
 </div>
