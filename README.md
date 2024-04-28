@@ -11,20 +11,14 @@
 
 </div>
 
-<div style="display: inline_block"><br>
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html-original.svg">
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" >          
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
- <img align="center" alt = "" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
-
- </div>
+<div style = "display:incline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" aling = "center" alt = "Javascript" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" aling = "center" alt = "html" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" aling = "center" alt = "css" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "dart" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling = "center" alt = "java" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" aling = "center" alt = "mysql" height = "40" width = "40" />
+</div>
 
  ##
 
