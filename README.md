@@ -3,7 +3,7 @@
 - 💬 Tenho 16 anos
 - 📫 Moro na Capital de São Paulo
   
-- 😄 Sou desenvolvedora de sistemas e web designer, atualmente estudando as linguagens de progamação Dart e Php !
+- 😄 Sou desenvolvedora de sistemas e web designer, sempre disponivel para novos projetos e atualmente estudando as linguagens de progamação Dart e Php !
 
   <div>
 <img align = "center" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NathTagliati&layout=compact&langs_count=16&theme=dark"/>
