@@ -3,7 +3,7 @@
 - 💬 Tenho 16 anos
 - 📫 Moro na Capital de São Paulo
   
-- 😄 Sou desenvolvedora de sistema, atualmente estudando as linguagens de progamação Dart e Php !
+- 😄 Sou desenvolvedora de sistemas e web designer, atualmente estudando as linguagens de progamação Dart e Php !
 
   <div>
 <img align = "center" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NathTagliati&layout=compact&langs_count=16&theme=dark"/>
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" aling = "center" alt = "word" height = "40" width = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" aling = "center" alt = "photo" height = "40" width = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" aling = "center" alt = "canva" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/desenvolvedor/desenvolvedor-original.svg" aling = "center" alt = "canva" height = "40" width = "40" />
+ 
   
   
 </div>
