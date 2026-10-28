@@ -21,8 +21,6 @@ Tenho base em desenvolvimento web e programação em C, e hoje direciono meus es
 
 ---
 
-## 🛠️ Tecnologias
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,js,html,css,mysql,bootstrap,linux,git,github,vscode&theme=dark" />
 </p>
