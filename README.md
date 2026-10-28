@@ -14,12 +14,9 @@
 
 ## 👩‍💻 Sobre mim
 
-Estou no 2º semestre de **Ciência da Computação ** 
-Tenho base em desenvolvimento web e programação em C, e hoje direciono meus estudos para **segurança da informação e redes**.
+Estou no 2º semestre de Ciência da Computação  
+Tenho base em desenvolvimento web e programação em C, e hoje direciono meus estudos para segurança da informação e redes.
 
-🎯 **Procurando:** estágio em cibersegurança, redes ou infraestrutura.
-
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,js,html,css,mysql,bootstrap,linux,git,github,vscode&theme=dark" />
