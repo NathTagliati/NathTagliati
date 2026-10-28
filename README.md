@@ -1,38 +1,38 @@
-### Oii sou a Nathali Tagliati 👋
+<h1 align="center">Nathali Tagliati</h1>
 
-- 💬 Tenho 16 anos
-- 📫 Moro na Capital de São Paulo
-  
-- 😄 Sou desenvolvedora de sistemas e web designer, sempre disponivel para novos projetos e atualmente estudando as linguagens de progamação Dart e Php !
+<p align="center">
+  <b>Estudante de Ciência da Computação · Cibersegurança & Redes</b><br/>
+  São Paulo – SP · Disponível para estágio
+</p>
 
-  <div>
-<img align = "center" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NathTagliati&layout=compact&langs_count=16&theme=dark"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathalitagliati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nathalitagliati04@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-</div>
+---
 
-<div style = "display:incline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" aling = "center" alt = "html" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" aling = "center" alt = "css" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" aling = "center" alt = "Javascript" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling = "center" alt = "java" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "dart" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" aling = "center" alt = "php" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" aling = "center" alt = "mysql" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" aling = "center" alt = "word" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" aling = "center" alt = "photo" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" aling = "center" alt = "canva" height = "40" width = "40" />
- 
-  
-  
-</div>
+## 👩‍💻 Sobre mim
 
- ##
+Estou no 2º semestre de **Ciência da Computação ** 
+Tenho base em desenvolvimento web e programação em C, e hoje direciono meus estudos para **segurança da informação e redes**.
 
- <div>
-  <a href = "https://github.com/NathTagliati" target = "_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <a href = "https://www.linkedin.com/in/nathalitagliati/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   <a href = "mailto:contato@nathalitagliati04@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</div>
-          
+🎯 **Procurando:** estágio em cibersegurança, redes ou infraestrutura.
 
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,mysql,bootstrap,linux,git,github,vscode&theme=dark" />
+</p>
+
+| Área | O que uso |
+|---|---|
+| 🔐 **Segurança e redes** | Fundamentos de cibersegurança · Redes Cisco (CCNA) · TryHackMe · Linux |
+| 💻 **Programação** | C (ponteiros, estruturas, algoritmos) · JavaScript |
+| 🗄️ **Banco de dados** | MySQL · SQL · Modelagem de dados |
+| 🌐 **Web** | HTML · CSS · Bootstrap 5 · design responsivo |
+| 🧰 **Ferramentas** | Git · GitHub · VS Code |
+
+---
